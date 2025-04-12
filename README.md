@@ -33,7 +33,7 @@ The Jupyter notebooks are organized by course modules:
 ## 🚀 Technologies Used  
 - **Python 3**  
 - **Jupyter Notebook**  
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
 
 ## Final Project  
 The final project in **Module 5** demonstrates the application of course concepts through a web scrapping & data analysis case study.  
