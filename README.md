@@ -21,12 +21,11 @@ The Jupyter notebooks are organized by course modules:
 
 ```
 📁 Repository Structure
-├── 📁 Module 1 - Python Basics
-├── 📁 Module 2 - Data Structures
-├── 📁 Module 3 - Python Programming
-├── 📁 Module 4 - Working with Data
-├── 📁 Module 5 - APIs and Data Collection
-├── 📁 Module 6 - Final Project
+├── 📁 1-python-basics
+├── 📁 2-data-structures
+├── 📁 3-programming-flows
+├── 📁 4-working-with-data
+├── 📁 5-apis-and-data-fetching
 │ ├── 📝 Project - Data Analysis Case Study
 ├── README.md
 ```
@@ -37,13 +36,13 @@ The Jupyter notebooks are organized by course modules:
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
 
 ## Final Project  
-The final project in **Module 6** demonstrates the application of course concepts through a complete data analysis case study.  
+The final project in **Module 5** demonstrates the application of course concepts through a web scrapping & data analysis case study.  
 
 ## How to Use  
 1. Clone and access the repository:  
    ```bash
-   git clone https://github.com/your-username/python-for-data-science-ai.git
-   cd python-for-data-science-ai/
+   git clone https://github.com/phaa/ibm-python-for-ai.git
+   cd ibm-python-for-ai/
    ```
 2. Setup virtual environment (conda ou venv):  
    ```bash
